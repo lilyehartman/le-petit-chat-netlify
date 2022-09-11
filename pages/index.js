@@ -11,10 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to Le Petit Chat!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          By Lily E. Hartman
         </p>
+    <p>
+      <img src="https://github.com/lilyehartman/le-petit-chat/raw/main/78AC4216-6B14-4F13-9617-700D42D853E0.jpeg" />
+    </p>
       </main>
 
       <Footer />
