@@ -19,6 +19,8 @@ main {
   align-items: center;
 }
 
+img { max-width: 100% }
+
 code {
   background: #fafafa;
   border-radius: 5px;
